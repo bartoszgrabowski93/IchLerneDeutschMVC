@@ -12,4 +12,8 @@
     <Folder Include="Services\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\IchLerneDeutsch.Domain\IchLerneDeutsch.Domain.csproj" />
+  </ItemGroup>
+
 </Project>
